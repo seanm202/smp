@@ -1,0 +1,22 @@
+Tables
+.......
+Users
+Branches - *
+Admins
+StudentDetails
+Courses - *
+SubjectList - *
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Models
+.......
+Branch - 	New branch,Admin Details,Location details
+Admin - 	Add Admin,Delete/Replace Admin, DOB, DOJ,Address,Super 		or not
+Student - 	Add student,Delete Student,Add/Edit student details
+Course - 	Add/Edit/Delete courses,Course details,Course code
+Subject - 	Add/Edit/Delete subjects,Subject details,Subject code
+Location - 	Add/Edit Longitude,Add/Edit Latitude,Add/Edit 				Landmark,Add/Edit Address

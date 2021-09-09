@@ -1,0 +1,40 @@
+<style>
+.first
+{
+  display: flex;
+}
+
+#fl{
+  padding: 20px;
+  }
+.addBranch
+{
+  display: flex;
+  padding: 30px;
+  }
+.addNBranch
+{
+  padding: 30px;
+  }
+.addNewBranch
+{
+  padding: 30px;
+  }
+.branchActions
+{
+  display: flex;
+  }
+
+#suspendbranch
+{
+  padding: 20px;
+  }
+  #reactivatebranch
+  {
+    padding: 20px;
+    }
+    #deletebranch
+    {
+      padding: 20px;
+      }
+</style>

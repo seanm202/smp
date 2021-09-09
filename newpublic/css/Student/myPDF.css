@@ -1,0 +1,29 @@
+body{
+  border: 15px solid black;
+  padding: 20px;
+}
+.heading{
+  color:white;
+  background-color: black;
+}
+.detdiv{
+  display: flex;
+}
+.details{
+  background-color: orange;
+}
+.ddetails{
+  background-color: black;
+  color: white;
+}
+.signature{
+  display: flex;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.studentSignature{
+  padding-right: 50px;
+}
+.principalSignature{
+  padding-left: 50px;
+}
